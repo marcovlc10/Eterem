@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Eterem</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="restaurant_ad">Anuncio de restaurantes</string>
+    <string name="go_to_place">Ir al lugar</string>
+    <string name="tituloSugerencias">¿Qué se te antoja hoy?</string>
+    <string name="botonVerMas">Ver más</string>
+    <string name="textoCuantoDinero">¿Con cuánto dinero cuentas?</string>
+    <string name="textoCantidadDinero">Cantidad de dinero</string>
+    <string name="botonVolver">Volver</string>
+    <string name="botonAyuda">Ayuda</string>
+    <string name="botonConfiguracion">Configuración</string>
+    <string name="botonCerrarSesion">Cerrar sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="inicioUbicacion">Tú estás aquí\n Ubicación</string>
+    <string name="barato">$</string>
+    <string name="promedio">$$</string>
+    <string name="caro">$$$</string>
+    <string name="muyCaro">$$$$</string>
+    <string name="botonDetalleLugar">Detalles</string>
+    <string name="textoEjemplo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitorlacus bibendum viverra sagittis. Fusce congue, ex sit amet convallis mattis, nunc felis convallis massa, sit amet sagittis lorem turpis tristique elit. Phasellus consectetur vulputate tortor ac lobortis. Vestibulum et urna diam.</string>
+</resources>
