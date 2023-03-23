@@ -16,6 +16,7 @@ class InicioActivity : AppCompatActivity() {
         var social: View =findViewById(R.id.image_view_social)
         var busqueda: View =findViewById(R.id.image_view_busqueda)
         var opciones: View =findViewById(R.id.view_opciones)
+        var promociones: View =findViewById(R.id.image_view_promociones)
 
         boton.setOnClickListener{
             var intento= Intent(this, DetalleLugarActivity::class.java)
@@ -39,6 +40,11 @@ class InicioActivity : AppCompatActivity() {
 
         opciones.setOnClickListener{
             var intento= Intent(this, OpcionesActivity::class.java)
+            this.startActivity(intento)
+        }
+
+        promociones.setOnClickListener{
+            var intento= Intent(this, PromocionesActivity::class.java)
             this.startActivity(intento)
         }
     }

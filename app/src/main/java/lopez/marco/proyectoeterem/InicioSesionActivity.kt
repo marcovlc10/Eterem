@@ -15,7 +15,7 @@ class InicioSesionActivity : AppCompatActivity() {
         var registrarse: TextView =findViewById(R.id.text_registrar)
 
         boton.setOnClickListener{
-            var intento= Intent(this, InicioActivity::class.java)
+            var intento= Intent(this, MenuActivity::class.java)
             this.startActivity(intento)
         }
 
